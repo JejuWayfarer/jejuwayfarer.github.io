@@ -9,6 +9,7 @@ subtitle                 : "ML, DL, NLP, RS" # site tagline that appears below s
 name                     : "민지웅"
 description              : "ML Beginer"
 url                      : "https://jejuwayfarer.github.io"
+baseurl                  : ""
 repository               : "JejuWayfarer/jejuwayfarer.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
