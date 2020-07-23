@@ -5,14 +5,14 @@ locale                   : "ko-KR"
 title                    : "ML wayfarer"
 title_separator          : "&#124;"
 subtitle                 : "ML , DL, NLP, RS# site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : "https://jejuwayfarer.github.io/"
-baseurl                  : ""# the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+name                     : "민지웅"
+description              : "ML Beginer"
+url                      : "https://jejuwayfarer.com/"
+baseurl                  :
+repository               : 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "데이터로 바라보는 세상"# overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
