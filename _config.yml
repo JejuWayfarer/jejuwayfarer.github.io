@@ -257,3 +257,5 @@ compress_html:
 defaults:
   # _posts
   - scope:
+
+theme: jekyll-theme-minimal
