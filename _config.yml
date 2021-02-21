@@ -5,7 +5,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "ko-KR"
 title                    : "ML wayfarer"
 title_separator          : "-"
-subtitle                 : "ML, DL, NLP, RS" # site tagline that appears below site title in masthead
+subtitle                 : "NLP, ML, DL, RS" # site tagline that appears below site title in masthead
 name                     : "민지웅"
 description              : "ML Beginer"
 url                      : "https://jejuwayfarer.github.io"
@@ -13,7 +13,7 @@ baseurl                  : ""
 repository               : "JejuWayfarer/jejuwayfarer.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "데이터로 바라보는 세상"# overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "AI for ALL"# overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
